@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: environments/dev/terragrunt.hcl
+  checksum: 29728c5d8500576f05f59b387537a792bb134faec65e645133d0f6466857308d
+version: "1.0"
