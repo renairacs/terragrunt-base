@@ -2,6 +2,7 @@
 
 Estrutura de diretórios
 
+```
 project
 ├── environments
 │   ├── dev
@@ -20,3 +21,4 @@ project
     └── ec2
         ├── main.tf
         └── variables.tf
+```
